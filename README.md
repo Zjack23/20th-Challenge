@@ -21,7 +21,7 @@ Developement examples
 
 ## Contributing
 
-(Zavier Jackson)[https://github.com/Zjack23]
+(Zavier Jackson) [https://github.com/Zjack23]
 
 ## Tests
 
