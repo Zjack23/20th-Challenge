@@ -1,18 +1,16 @@
-# Note Taker
+# Developer Portfolio
 
 ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
 ## Description
 
-A way to organize notes such that you are able to write and save notes.
+a portfolio, using my new React skills to help set you apart from other developers all the while using the latest technologies.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
@@ -21,15 +19,11 @@ The Deployed github link will take you to the front landing page
 
 ## Usage
 
-A landing page to keep notes
-
-## License
-
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+Developement examples
 
 ## Contributing
 
-N/A
+(Zavier Jackson)[https://github.com/Zjack23]
 
 ## Tests
 
@@ -40,4 +34,4 @@ N/A
 For any questions, please reach out via:
 
 - GitHub: [zjack23](https://github.com/zjack23)
-- Email: [zjack1298@gmail.com](mailto:zjack1298@gmail.com)
+- Netlify: [Deployed Portfolio](https://6698c78a2b97e7643431c7aa--resonant-bienenstitch-4cd787.netlify.app) 
