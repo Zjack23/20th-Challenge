@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zavier's Developer Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Zavier Jacksoon</h1>
+    <nav>
+      <ul>
+        <li><a href="#about" class="nav-link" data-section="about">About Me</a></li>
+        <li><a href="#portfolio" class="nav-link" data-section="portfolio">Portfolio</a></li>
+        <li><a href="#contact" class="nav-link" data-section="contact">Contact</a></li>
+        <li><a href="#resume" class="nav-link" data-section="resume">Resume</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about" class="content-section">
+      <img src="avatar.jpg" alt="Developer's Avatar">
+      <p>bio to be filled.</p>
+    </section>
+
+    <section id="portfolio" class="content-section">
+      <h2>Portfolio</h2>
+      <div class="portfolio-item">
+        <h3>Project Title 1</h3>
+        <img src="project1.jpg" alt="Project 1">
+        <a href="https://deployedproject1.com" target="_blank">Deployed Application</a>
+        <a href="https://github.com/user/project1" target="_blank">GitHub Repository</a>
+      </div>
+      <!-- Repeat for other projects -->
+    </section>
+
+    <section id="contact" class="content-section">
+      <h2>Contact</h2>
+      <form id="contact-form">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" required></textarea>
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+
+    <section id="resume" class="content-section">
+      <h2>Resume</h2>
+      <a href="resume.pdf" download>Download Resume</a>
+      <ul>
+        <li>Proficiency 1</li>
+        <li>Proficiency 2</li>
+        <!-- List other proficiencies -->
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <a href="https://github.com/Zjack23" target="_blank">GitHub</a>
+    <a href="https://linkedin.com/in/user" target="_blank">LinkedIn</a>
+    <a href="https://stackoverflow.com/users/user" target="_blank">Stack Overflow</a>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
