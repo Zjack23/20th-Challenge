@@ -1,7 +1,5 @@
 # Developer Portfolio
 
-![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
-
 ## Description
 
 a portfolio, using my new React skills to help set you apart from other developers all the while using the latest technologies.
