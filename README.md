@@ -6,14 +6,9 @@ a portfolio, using my new React skills to help set you apart from other develope
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Questions](#questions)
-
-## Installation
-
-The Deployed github link will take you to the front landing page
 
 ## Usage
 
